@@ -4,10 +4,9 @@
 
 [![College](https://img.shields.io/badge/College-NSSCE%20Palakkad-blue)](https://nssce.ac.in/) [![University](https://img.shields.io/badge/University-APJ%20AKTU-red)](https://ktu.edu.in/eu/core/user/home.htm) [![Status](https://img.shields.io/badge/Status-Frontend%20Complete%20(Mini%20Project)-brightgreen)](#-current-status)
 
-<!-- Optional: Add a banner image or GIF here if you have one -->
-<!-- Example: ![EventHive Banner](link/to/your/banner.png) -->
+![Project Logo](assets/eventHive.png)
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tvdjVvZm1rbjl6c2N4Z2V6cW83bzJkbG00ZmJkbmoyMnI4ZTN2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QkDEMy8qr1Y1r9t2L3/giphy.gif" width="350" alt="Community Collaboration GIF">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tvdjVvZm1rbjl6c2N4Z2V6cW83bzJkbG00ZmJkbmoyMnI4ZTN2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QkDEMy8qr1Y1r9t2L3/giphy.gif](https://www.google.com/url?sa=E&q=https%3A%2F%2Fimages.app.goo.gl%2F8mCLrFdhKhQsngZL7)" width="350" alt="Community Collaboration GIF">
 </p>
 
 ## 🚀 Project Overview
@@ -87,48 +86,48 @@ To run the frontend demo locally:
 ```bash
 git clone https://github.com/Theertha-santhosh/EventHive-Miniproject.git
 cd EventHive-Miniproject
-Use code with caution.
-Markdown
-2. Install Dependencies
+```
+
+### 2. Install Dependencies
+
 Make sure you have Node.js and npm installed.
 
+```bash
 npm install
-Use code with caution.
-Bash
-3. Run the Development Server
+```
+
+### 3. Run the Development Server
+
+```bash
 npm run dev
-Use code with caution.
-Bash
-4. Run the application
-Open your browser and navigate to the local address provided (usually http://localhost:5173 or similar). You can now interact with the frontend UI demo.
+```
 
-🚀 Future Scope
-🔌 Backend Integration: Develop and connect the Django backend for full functionality (authentication, data storage, API endpoints).
+### 4. Run the application
 
-🗃️ Database Implementation: Set up PostgreSQL or Firebase for persistent data storage.
+Open your browser and navigate to the local address provided (usually `http://localhost:5173` or similar). You can now interact with the frontend UI demo.
 
-📱 Mobile App: Develop the Flutter application for student users.
+## 🚀 Future Scope
 
-📊 Analytics: Implement dashboards for event performance and community engagement tracking.
+*   🔌 **Backend Integration:** Develop and connect the Django backend for full functionality (authentication, data storage, API endpoints).
+*   🗃️ **Database Implementation:** Set up PostgreSQL or Firebase for persistent data storage.
+*   📱 **Mobile App:** Develop the Flutter application for student users.
+*   📊 **Analytics:** Implement dashboards for event performance and community engagement tracking.
+*   🔔 **Notifications:** Add real-time notifications for event updates and membership requests.
+*   🤖 **AI Features:** Potentially add AI-based event recommendations (as mentioned in report scope).
+*   🌐 **Deployment:** Deploy the application to a live server.
 
-🔔 Notifications: Add real-time notifications for event updates and membership requests.
+## 🧑‍💻 Team Members
 
-🤖 AI Features: Potentially add AI-based event recommendations (as mentioned in report scope).
+*   **Sabari R NADH** (NSS22CS058)
+*   **Theertha Santhosh** (NSS22CS063)
+*   **Vishnu M** (NSS22CS068)
+*   **Mihikka S** (NSS22CS039)
 
-🌐 Deployment: Deploy the application to a live server.
+*(B.Tech Computer Science and Engineering, NSS College of Engineering, Palakkad)*
 
-🧑‍💻 Team Members
-Sabari R NADH (NSS22CS058)
+## 🙏 Acknowledgements
 
-Theertha Santhosh (NSS22CS063)
+*   Our sincere thanks to our project guide **Mr. Kiran V K** (Assistant Professor, CSE Dept) for his valuable guidance.
+*   Gratitude to the **Department of Computer Science and Engineering** and **NSS College of Engineering, Palakkad** for providing the resources and opportunity.
 
-Vishnu M (NSS22CS068)
-
-Mihikka S (NSS22CS039)
-
-(B.Tech Computer Science and Engineering, NSS College of Engineering, Palakkad)
-
-🙏 Acknowledgements
-Our sincere thanks to our project guide Mr. Kiran V K (Assistant Professor, CSE Dept) for his valuable guidance.
-
-Gratitude to the Department of Computer Science and Engineering and NSS College of Engineering, Palakkad for providing the resources and opportunity.
+```
